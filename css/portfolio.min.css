@@ -13,7 +13,7 @@ html, body {
 
 
 .vert-text {
-	color: white;
+	color: black;
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
@@ -28,11 +28,11 @@ html, body {
 }
 .icon {
 	opacity: .4;
-	color: #fff
+	color: black;
 }
 .icon:hover {
 	opacity: .8;
-	color: #fff
+	color: black;
 }
 .tooltip-inner {
 	background: 0;
@@ -40,8 +40,8 @@ html, body {
 	opacity: .6
 }
 .dp {
-	height: 281px;
-	width: 281px;
+	height: 370px;
+	width: 370px;
 	border-radius: 100%;
 	margin-top: -50px;
 	border: 0px solid #fff
